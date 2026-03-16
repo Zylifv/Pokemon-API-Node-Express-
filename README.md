@@ -1,14 +1,9 @@
-# Node.js Express template
+# Node.js Express API
 
-This is a Node.js Express project with an HTTP server.
+This is my first real experience with Node and creating an express API. I have used existing code that i wrote for the "Pokemon-Wordle" game but i wanted to see if i could store it in a file, export it into another file and then display as an app.get call.
 
-Add your [configuration](https://codesandbox.io/docs/projects/learn/setting-up/tasks) to optimize it for [CodeSandbox](https://codesandbox.io).
+I would like to eventually pair this up with a database, perhaps with SQL and further expand my backend knowledge, but for now this was a fun introductory lesson for me.
 
-## How does this work?
+To see the API, follow this Code Sandbox link below:
 
-We run `yarn start` to start an HTTP server that runs on http://localhost:8080. You can open new or existing devtools with the + button next to the devtool tabs.
-
-## Resources
-
-- [CodeSandbox — Docs](https://codesandbox.io/docs)
-- [CodeSandbox — Community](https://codesandbox.community)
+https://86dzvl-3000.csb.app
